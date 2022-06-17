@@ -5,7 +5,12 @@
     - DevOps
 - 🌱 I’m currently learning in an Engineer School CPE Lyon in Computer Science and Cyber-security
 - 📫 How to reach me : cro.cyrian@gmail.com  
-                        https://www.linkedin.com/in/cyrian-crozier/
+- 
+
+<a href="https://www.linkedin.com/in/cyrian-crozier/">
+    <img align="center" src="https://icon.horse/icon/linkedin.com" />
+  </a>
+
  
 
 <!---
