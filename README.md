@@ -4,7 +4,7 @@
     - Cyber-security
     - DevOps
 - 🌱 I’m currently learning in an Engineer School CPE Lyon in Computer Science and Cyber-security
-- 📫 How to reach me : cro.cyrian@gmail.com
+- 📫 How to reach me : cro.cyrian@gmail.com  
                         https://www.linkedin.com/in/cyrian-crozier/
  
 
